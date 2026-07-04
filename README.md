@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Dev Choudhary 👋<br><br>🎓 B.Tech Computer Science student with a passion for building secure, intelligent, and scalable solutions.<br><br>
+# Hi there, I'm Dev Choudhary 👋<br><br>🎓 B.Tech Computer Science student<br><br>Blockchain Developer <br><br> Cryptographer (OpenSSL) 
 
 
 ## 🌐 Socials:

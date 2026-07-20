@@ -60,10 +60,10 @@
 </p>
 
 
+
 ## 📈 Contribution Graph
 
-<img src= "https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=highcontrast"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev44choudhary-debug&theme=tokyo-night"/>
 
 
 

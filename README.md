@@ -2,6 +2,15 @@
 # Hi there, I'm Dev Choudhary 👋<br><br>🎓 B.Tech Computer Science student<br><br>🧑‍💻Blockchain Developer, 🔑Cryptographer (OpenSSL)<br><br> ☁️Cloud Computing (web), 🤖Artificial Intelligence
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=tokyonight)
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev44choudahry-debug&theme=tokyo-night)
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevGadwal2006 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-choudhary-2006june) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev44choudhary@gmail.com) 
 

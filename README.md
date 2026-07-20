@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Dev Choudhary Banner" width="100%">
+  <img src="profile.gif" width="220">
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Dev Choudhary</h1>
 

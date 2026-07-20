@@ -13,7 +13,9 @@
 ![](https://streak-stats.demolab.com/?user=dev44choudhary-debug&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev44choudhary-debug&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev44choudhary-debug/dev44choudhary-debug/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=tokyonight)
 

@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Dev%20Choudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Blockchain%20Developer%20|%20Cryptographer%20|%20Cloud%20Computing%20|%20AI&descAlignY=55"/>
 </p>
-
 
 
 <h1 align="center">Hi 👋, I'm Dev Choudhary</h1>

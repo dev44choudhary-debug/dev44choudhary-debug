@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner1.png" alt="Dev Choudhary" width="220">
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Dev Choudhary</h1>

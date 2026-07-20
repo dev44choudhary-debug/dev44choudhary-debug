@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/dev44choudhary-debug/dev44choudhary-debug/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=tokyonight)
 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev44choudhary-debug&theme=tokyo-night)

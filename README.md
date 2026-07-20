@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Dev%20Choudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Blockchain%20Developer%20|%20Cryptographer%20|%20Cloud%20Computing%20|%20AI&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,24,30&text=Dev%20Choudhary&fontSize=50&fontColor=FFD700&animation=twinkling&desc=Blockchain%20Developer%20%7C%20Cryptographer%20%7C%20Cloud%20Computing%20%7C%20AI&descSize=18&descAlignY=65"/>
+</p>
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,24,30&text=Dev%20Choudhary&fontSize=50&fontColor=FFD700&animation=twinkling&desc=Blockchain%20Developer%20%7C%20Cryptographer%20%7C%20Cloud%20Computing%20%7C%20AI&descSize=18&descAlignY=65"/>
+  <img src="banner.png" alt="Dev Choudhary Banner" width="100%">
 </p>
 
 

@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Dev Choudhary</h1>
 
 <h3 align="center">

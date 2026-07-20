@@ -55,19 +55,17 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev44choudhary-debug&layout=compact&theme=tokyonight"/>
+<img height="170" src="(https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=highcontrast"/>
 
 </p>
 
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev44choudhary-debug&theme=tokyo-night"/>
+<img src= "https://github-readme-stats.vercel.app/api?username=dev44choudhary-debug&show_icons=true&theme=highcontrast"/>
 
 
-## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev44choudhary-debug&theme=tokyonight&margin-w=15"/>
 
 
 ## 🐍 Contribution Snake
@@ -85,8 +83,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/dev44choudhary-debug">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://instagram.com/devgadwal2006">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>

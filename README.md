@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="profile.gif" width="220">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Dev Choudhary</h1>
 

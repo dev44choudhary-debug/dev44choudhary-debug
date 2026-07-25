@@ -40,7 +40,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,tailwind,,git,github,vscode," />
 
 </p>
 

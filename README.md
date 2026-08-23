@@ -11,12 +11,12 @@
 </h3>
 
 <p align="center">
-🧑‍💻 Blockchain Developer • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • 🤖 Artificial Intelligence
+🧑‍💻 Blockchain Student • 🔑 Cryptographer (OpenSSL) • ☁️ Cloud Computing • Frontend Web Developer • 🤖 Artificial Intelligence
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Blockchain+Student;Java+Developer;Cloud+Computing+Learner;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Blockchain+Student;Java+Developer;Cloud+Computing+Learner;Always+Learning+New+Things🚀">
 </p>
 
 
